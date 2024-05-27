@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"library"},{"l":"library.graphics2D"},{"l":"library.graphics3D"},{"l":"library.math"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"library.graphics2D"},{"l":"library.graphics3D"},{"l":"library.io"},{"l":"library.math"},{"l":"library.parallel"},{"l":"library.util"}];updateSearchResults();
